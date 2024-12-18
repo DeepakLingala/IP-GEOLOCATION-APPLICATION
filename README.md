@@ -43,12 +43,12 @@ pip install bcrypt requests
 1. Clone this repository.
 2. Run the script using:
    ```bash
-   python app.py
+   python code.py
    ```
 3. Follow the on-screen instructions to register, log in, or recover your password.
 
 ## File Structure
-- `app.py`: Main application file containing all functionality.
+- `code.py`: Main application file containing all functionality.
 - `Your_DataBase.csv`: Automatically created CSV file to store user credentials and security questions.
 
 ## CSV Database
